@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+
+    <color name="background_gradient_dawn_upColor">#664874</color>
+    <color name="background_gradient_dawn_middleColor">#886975</color>
+    <color name="background_gradient_dawn_downColor">#f4dc93</color>
+
+    <color name="background_gradient_daytime_upColor">#4194ff</color>
+    <color name="background_gradient_daytime_middleColor">#69aefe</color>
+    <color name="background_gradient_daytime_downColor">#ffffff</color>
+
+    <color name="background_gradient_twilight_upColor">#e42a3a</color>
+    <color name="background_gradient_twilight_middleColor">#f99d9a</color>
+    <color name="background_gradient_twilight_downColor">#ffe898</color>
+
+    <color name="background_gradient_nighttime_upColor">#112d42</color>
+    <color name="background_gradient_nighttime_middleColor">#1f546a</color>
+    <color name="background_gradient_nighttime_downColor">#30d1e5</color>
+
+</resources>
